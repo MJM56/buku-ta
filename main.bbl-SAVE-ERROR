@@ -1,0 +1,755 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Ropper2014Adams}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=b009fa1eeddba40d511faa30d6baabe3}{%
+           family={Ropper},
+           familyi={R\bibinitperiod},
+           given={Allan\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=875e2770a527abddbaf763916262422d}{%
+           family={Samuels},
+           familyi={S\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1deee845b54ae80d69f2bc6378de9ca5}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Joshua\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {US}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{d87bc6428f775b01884decf97553160d}
+      \strng{fullhash}{d87bc6428f775b01884decf97553160d}
+      \strng{fullhashraw}{d87bc6428f775b01884decf97553160d}
+      \strng{bibnamehash}{d87bc6428f775b01884decf97553160d}
+      \strng{authorbibnamehash}{d87bc6428f775b01884decf97553160d}
+      \strng{authornamehash}{d87bc6428f775b01884decf97553160d}
+      \strng{authorfullhash}{d87bc6428f775b01884decf97553160d}
+      \strng{authorfullhashraw}{d87bc6428f775b01884decf97553160d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10th}
+      \field{title}{Adams and Victor's: Principles of Neurology}
+      \field{year}{2014}
+    \endentry
+    \entry{Ady2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=491cde0c21e9f3acb8a511430e5cce16}{%
+           family={Ady},
+           familyi={A\bibinitperiod},
+           given={Wakhid\bibnamedelimb Agung\bibnamedelima Guna},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{fullhash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{fullhashraw}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{bibnamehash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{authorbibnamehash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{authornamehash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{authorfullhash}{491cde0c21e9f3acb8a511430e5cce16}
+      \strng{authorfullhashraw}{491cde0c21e9f3acb8a511430e5cce16}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pengembangan Desain Kursi Roda Khususnya Pada Lansia Berdasarkan Citra (Image) Produk Dengan Metode Kansei Engineering}
+      \field{year}{2011}
+    \endentry
+    \entry{sumit2017}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=4c497a2def940d4a38fa5ea1dde98bf1}{%
+           family={Desai},
+           familyi={D\bibinitperiod},
+           given={Sumit},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f055f6367090468d8bd61271dcd00a97}{%
+           family={Mantha},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a5b161c394efc518194f7d0883984be7}{%
+           family={Phalle},
+           familyi={P\bibinitperiod},
+           given={Vikas},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{fullhash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{fullhashraw}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{bibnamehash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{authorbibnamehash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{authornamehash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{authorfullhash}{6ea01976df43ce07c9a7cc76794b0029}
+      \strng{authorfullhashraw}{6ea01976df43ce07c9a7cc76794b0029}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 International Conference on Nascent Technologies in Engineering (ICNTE)}
+      \field{title}{Advances in smart wheelchair technology}
+      \field{year}{2017}
+    \endentry
+    \entry{Budimananjay}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=499ae18fdedd1cbf33b484a42476707e}{%
+           family={Nur\bibnamedelima Budiman},
+           familyi={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Saiful},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4526732441e8f6ca11e530beec4148fe}{%
+           family={Lestanti},
+           familyi={L\bibinitperiod},
+           given={Sri},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1a70858b096b165c2757064f29cfac6}{%
+           family={Marselius\bibnamedelima Evvandri},
+           familyi={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Suji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=90e7735f6dc50f485cd4840c8933b995}{%
+           family={Kartika\bibnamedelima Putri},
+           familyi={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Rahma},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f57d2521f099413569db471c80e3a120}
+      \strng{fullhash}{59b30d491868ad3afba01ca0703f4b5c}
+      \strng{fullhashraw}{59b30d491868ad3afba01ca0703f4b5c}
+      \strng{bibnamehash}{59b30d491868ad3afba01ca0703f4b5c}
+      \strng{authorbibnamehash}{59b30d491868ad3afba01ca0703f4b5c}
+      \strng{authornamehash}{f57d2521f099413569db471c80e3a120}
+      \strng{authorfullhash}{59b30d491868ad3afba01ca0703f4b5c}
+      \strng{authorfullhashraw}{59b30d491868ad3afba01ca0703f4b5c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Antivirus : Jurnal Ilmiah Teknik Informatika}
+      \field{title}{FINGER GESTURE RECOGNITION TO CONTROL VOLUME ON COMPUTER USING OPENCV AND MEDIAPIPE LIBRARY}
+      \field{year}{2022}
+    \endentry
+    \entry{Fatoni2023}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=62fa096b24ec45135e17df47e25c69e5}{%
+           family={Fatoni},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=30c70df25ebfd8c4d80432d433b7846e}{%
+           family={Suprayitno},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b2c730b19c732f5ce00e9205d36ce7f5}{%
+           family={Arifin},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9eca3e8f5ffc425940becb8a6af915b9}{%
+           family={Hikmah},
+           familyi={H\bibinitperiod},
+           given={N.\bibnamedelimi F.},
+           giveni={N\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=a51774c288832162ef2ed3470aa7deda}{%
+           family={Sardjono},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3dd0d9943d5f30b1815222e1e22656ec}{%
+           family={Nuh},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f386e19976b8ce0ebea2730067aa4ef}
+      \strng{fullhash}{8340a76fc27cbe58b791f070b35e15fb}
+      \strng{fullhashraw}{8340a76fc27cbe58b791f070b35e15fb}
+      \strng{bibnamehash}{8340a76fc27cbe58b791f070b35e15fb}
+      \strng{authorbibnamehash}{8340a76fc27cbe58b791f070b35e15fb}
+      \strng{authornamehash}{1f386e19976b8ce0ebea2730067aa4ef}
+      \strng{authorfullhash}{8340a76fc27cbe58b791f070b35e15fb}
+      \strng{authorfullhashraw}{8340a76fc27cbe58b791f070b35e15fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sekolah Luar Biasa Yayasan Pembinaan Anak Cacat (SLB YPAC) Surabaya merupakan yayasan pendidikan yang dirintis dan ditujukan untuk anak-anak yang mengalami cacat atau berkebutuhan khusus...}
+      \field{journaltitle}{Sewagati}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Pemanfaatan Kursi Roda Elektrik dengan Kendali Joystick Guna Meningkatkan Kemandirian Siswa Berkebutuhan Khusus di Sekolah Luar Biasa D Yayasan Pembinaan Anak Cacat Surabaya}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{167\bibrangedash 175}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.12962/j26139960.v7i2.446
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.its.ac.id/index.php/sewagati/article/view/446
+      \endverb
+      \verb{url}
+      \verb https://journal.its.ac.id/index.php/sewagati/article/view/446
+      \endverb
+    \endentry
+    \entry{dcmotor}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9feb0adad8db3970b684e0fe568b72af}{%
+           family={V.\bibnamedelimi K.\bibnamedelimi Mehta},
+           familyi={V\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Rohit\bibnamedelima Mehta},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {S Chand}%
+        {Company Limited}%
+      }
+      \strng{namehash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{fullhash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{fullhashraw}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{bibnamehash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{authorbibnamehash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{authornamehash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{authorfullhash}{9feb0adad8db3970b684e0fe568b72af}
+      \strng{authorfullhashraw}{9feb0adad8db3970b684e0fe568b72af}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Electrical Machines}
+      \field{year}{2002}
+    \endentry
+    \entry{bankar}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=56069f456e79bae1166bab6d2846d785}{%
+           family={Bankar},
+           familyi={B\bibinitperiod},
+           given={Rushikesh\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=5d6492dae18b9802ef4b17959f750244}{%
+           family={Salankar},
+           familyi={S\bibinitperiod},
+           given={Suresh\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{92694880b0450eebea7c195ee3459abc}
+      \strng{fullhash}{92694880b0450eebea7c195ee3459abc}
+      \strng{fullhashraw}{92694880b0450eebea7c195ee3459abc}
+      \strng{bibnamehash}{92694880b0450eebea7c195ee3459abc}
+      \strng{authorbibnamehash}{92694880b0450eebea7c195ee3459abc}
+      \strng{authornamehash}{92694880b0450eebea7c195ee3459abc}
+      \strng{authorfullhash}{92694880b0450eebea7c195ee3459abc}
+      \strng{authorfullhashraw}{92694880b0450eebea7c195ee3459abc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 Fifth International Conference on Communication Systems and Network Technologies}
+      \field{title}{Head Gesture Recognition System Using Gesture Cam}
+      \field{year}{2015}
+      \field{pages}{535\bibrangedash 538}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/CSNT.2015.81
+      \endverb
+    \endentry
+    \entry{MediaPipe2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=43e77da65cf4751d5bb926270d935874}{%
+           family={{MediaPipe}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{43e77da65cf4751d5bb926270d935874}
+      \strng{fullhash}{43e77da65cf4751d5bb926270d935874}
+      \strng{fullhashraw}{43e77da65cf4751d5bb926270d935874}
+      \strng{bibnamehash}{43e77da65cf4751d5bb926270d935874}
+      \strng{authorbibnamehash}{43e77da65cf4751d5bb926270d935874}
+      \strng{authornamehash}{43e77da65cf4751d5bb926270d935874}
+      \strng{authorfullhash}{43e77da65cf4751d5bb926270d935874}
+      \strng{authorfullhashraw}{43e77da65cf4751d5bb926270d935874}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 13-Dec-2023]}
+      \field{title}{Face Landmark Detection Guide}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://developers.google.com/Mediapipe/solutions/vision/face_landmarker
+      \endverb
+      \verb{url}
+      \verb https://developers.google.com/Mediapipe/solutions/vision/face_landmarker
+      \endverb
+    \endentry
+    \entry{albawi}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=a92a8d7d47ce475bde1f4d0c575e3415}{%
+           family={Albawi},
+           familyi={A\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b0c7df6171cf87ebe4270071829a7d26}{%
+           family={Mohammed},
+           familyi={M\bibinitperiod},
+           given={Tareq\bibnamedelima Abed},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c2f9de2eb7b3ac9408b9e418ef2a1e39}{%
+           family={Al-Zawi},
+           familyi={A\bibinithyphendelim Z\bibinitperiod},
+           given={Saad},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{fullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{fullhashraw}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{bibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authorbibnamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authornamehash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authorfullhash}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \strng{authorfullhashraw}{a7a6dfa5d4d520d174dfaa3acc2c04e0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 International Conference on Engineering and Technology (ICET)}
+      \field{title}{Understanding of a convolutional neural network}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICEngTechnol.2017.8308186
+      \endverb
+    \endentry
+    \entry{dwitama2019klasifikasi}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=d8f49cf9a63b7233c9fd242c60085ebf}{%
+           family={Dwitama},
+           familyi={D\bibinitperiod},
+           given={Aditya\bibnamedelimb Perwira\bibnamedelima Joan},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universitas Mataram}%
+      }
+      \strng{namehash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{fullhash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{fullhashraw}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{bibnamehash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{authorbibnamehash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{authornamehash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{authorfullhash}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \strng{authorfullhashraw}{d8f49cf9a63b7233c9fd242c60085ebf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klasifikasi Tingkat Retakan Pada Bangunan Berbasis Citra Menggunakan Metode Convolution Neural Network}
+      \field{type}{phdthesis}
+      \field{year}{2019}
+    \endentry
+    \entry{hakim2018}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=d9c0fe883af5baaeed0d4e7432647b25}{%
+           family={Hakim},
+           familyi={H\bibinitperiod},
+           given={RB\bibnamedelima Fajiya},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UNIVERSITAS ISLAM INDONESIA}%
+      }
+      \strng{namehash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{fullhash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{fullhashraw}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{bibnamehash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{authorbibnamehash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{authornamehash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{authorfullhash}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \strng{authorfullhashraw}{f3eb346d9f1cbc3ec1affdc17d33fc5f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PENERAPAN DEEP LEARNING MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK UNTUK KLASIFIKASI CITRA WAYANG PUNAKAWAN}
+      \field{year}{2018}
+    \endentry
+    \entry{Ovalle}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=eab04ebfe16cf92b14ac5b26dee7a72a}{%
+           family={Ovalle-Magallanes},
+           familyi={O\bibinithyphendelim M\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4b282eeb7173c057fb76cd172bb7ba47}{%
+           family={Avina-Cervantes},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={Juan\bibnamedelima Gabriel},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f07ac765c385582dc5e770245ddfbdb9}{%
+           family={Cruz-Aceves},
+           familyi={C\bibinithyphendelim A\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=30146acbdc134f75d4cf2cd1013aecfb}{%
+           family={Ruiz-Pinales},
+           familyi={R\bibinithyphendelim P\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b69f884a15c3713b94194f4de71f9c3f}
+      \strng{fullhash}{05676e30d9ca61b8cf41ca015c0790e0}
+      \strng{fullhashraw}{05676e30d9ca61b8cf41ca015c0790e0}
+      \strng{bibnamehash}{05676e30d9ca61b8cf41ca015c0790e0}
+      \strng{authorbibnamehash}{05676e30d9ca61b8cf41ca015c0790e0}
+      \strng{authornamehash}{b69f884a15c3713b94194f4de71f9c3f}
+      \strng{authorfullhash}{05676e30d9ca61b8cf41ca015c0790e0}
+      \strng{authorfullhashraw}{05676e30d9ca61b8cf41ca015c0790e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2227-7390}
+      \field{journaltitle}{Mathematics}
+      \field{number}{9}
+      \field{title}{Transfer Learning for Stenosis Detection in X-ray Coronary Angiography}
+      \field{volume}{8}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-7390/8/9/1510
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-7390/8/9/1510
+      \endverb
+    \endentry
+    \entry{nurfita2018}{thesis}{}{}
+      \name{author}{2}{}{%
+        {{hash=d465a99b497e4d0e3791e10586673827}{%
+           family={Nurfita},
+           familyi={N\bibinitperiod},
+           given={Royani\bibnamedelima Darma},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f34ad3565b45e8195ca56cfeced0280d}{%
+           family={Gunawan\bibnamedelima Ariyanto},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={ST},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universitas Muhammadiyah Surakarta}%
+      }
+      \strng{namehash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{fullhash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{fullhashraw}{bd7b60fc977da8901934d88ef502959a}
+      \strng{bibnamehash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{authorbibnamehash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{authornamehash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{authorfullhash}{bd7b60fc977da8901934d88ef502959a}
+      \strng{authorfullhashraw}{bd7b60fc977da8901934d88ef502959a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Implementasi Deep Learning Berbasis Tensorflow Untuk Pengenalan Sidik Jari}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+    \endentry
+    \entry{Developers}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b7b2b331845335bdaf47d13dce7d318d}{%
+           family={Developers},
+           familyi={D\bibinitperiod},
+           given={TensorFlow},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{fullhash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{fullhashraw}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{bibnamehash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{authorbibnamehash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{authornamehash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{authorfullhash}{b7b2b331845335bdaf47d13dce7d318d}
+      \strng{authorfullhashraw}{b7b2b331845335bdaf47d13dce7d318d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zenodo}
+      \field{month}{5}
+      \field{title}{Tensorflow}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://zenodo.org/record/4758419
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/4758419
+      \endverb
+    \endentry
+    \entry{Sanner1999Python}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=ce4dfae097ad8952b3e0801b43fe2a3e}{%
+           family={Sanner},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{fullhash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{fullhashraw}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{bibnamehash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{authorbibnamehash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{authornamehash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{authorfullhash}{2ba65fbf4b359e717e4696c95518726e}
+      \strng{authorfullhashraw}{2ba65fbf4b359e717e4696c95518726e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J Mol Graph Model}
+      \field{number}{1}
+      \field{title}{Python: A programming language for software integration and development}
+      \field{volume}{17}
+      \field{year}{1999}
+      \field{pages}{57\bibrangedash 61}
+      \range{pages}{5}
+    \endentry
+    \entry{inbook}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=02aa00ad8e13553b75f9e8f86670cf52}{%
+           family={Srivastav},
+           familyi={S\bibinitperiod},
+           given={Sonali},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{fullhash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{fullhashraw}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{bibnamehash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{authorbibnamehash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{authornamehash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{authorfullhash}{02aa00ad8e13553b75f9e8f86670cf52}
+      \strng{authorfullhashraw}{02aa00ad8e13553b75f9e8f86670cf52}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{CAMERA - TYPES, STRUCTURE AND FUNCTIONS}
+      \field{year}{2021}
+      \field{pages}{83\bibrangedash 98}
+      \range{pages}{16}
+    \endentry
+    \entry{dcdc}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=cb0f1bc5f977907b96759e94418cb364}{%
+           family={Samman},
+           familyi={S\bibinitperiod},
+           given={Faizal},
+           giveni={F\bibinitperiod}}}%
+        {{hash=32b333981ed3fd782cfd3bed6e158004}{%
+           family={Hamkah},
+           familyi={H\bibinitperiod},
+           given={D.F.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67d8290cab3817dc45d812d8114e5d6e}{%
+           family={Diatmika},
+           familyi={D\bibinitperiod},
+           given={M.D.B.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dd51dd03718037fa23c2d8564da8d9f1}{%
+           family={Sahali},
+           familyi={S\bibinitperiod},
+           given={Ida},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2bd0e99ae4521d0059b0b2ef9ac508e}
+      \strng{fullhash}{95c972b73296ae405f16df83926b87e3}
+      \strng{fullhashraw}{95c972b73296ae405f16df83926b87e3}
+      \strng{bibnamehash}{95c972b73296ae405f16df83926b87e3}
+      \strng{authorbibnamehash}{95c972b73296ae405f16df83926b87e3}
+      \strng{authornamehash}{e2bd0e99ae4521d0059b0b2ef9ac508e}
+      \strng{authorfullhash}{95c972b73296ae405f16df83926b87e3}
+      \strng{authorfullhashraw}{95c972b73296ae405f16df83926b87e3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ICIC Express Letters}
+      \field{month}{11}
+      \field{title}{Voltage regulator using a DC-DC converter controlled by interpolated PI gain scheduler for solar charge applications}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{pages}{1099\bibrangedash 1106}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.24507/icicel.12.11.1099
+      \endverb
+    \endentry
+    \entry{hbridge}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=7e3960d411bbe6eef00d5ced037aa460}{%
+           family={Staff},
+           familyi={S\bibinitperiod},
+           given={Maker.io},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{fullhash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{fullhashraw}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{bibnamehash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{authorbibnamehash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{authornamehash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{authorfullhash}{7e3960d411bbe6eef00d5ced037aa460}
+      \strng{authorfullhashraw}{7e3960d411bbe6eef00d5ced037aa460}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.digikey.com/en/maker/tutorials/2019/controlling-h-bridges
+      \endverb
+      \verb{url}
+      \verb https://www.digikey.com/en/maker/tutorials/2019/controlling-h-bridges
+      \endverb
+    \endentry
+    \entry{esp32}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d53b87cc6f49eacbd527e602262930fd}{%
+           family={Electins},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{fullhash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{fullhashraw}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{bibnamehash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{authorbibnamehash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{authornamehash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{authorfullhash}{d53b87cc6f49eacbd527e602262930fd}
+      \strng{authorfullhashraw}{d53b87cc6f49eacbd527e602262930fd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://electins.id/esp32-devkit-v1/
+      \endverb
+      \verb{url}
+      \verb https://electins.id/esp32-devkit-v1/
+      \endverb
+    \endentry
+    \entry{nuc}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=1ac215b5ec37d47f10cdcaf1ebaa4cea}{%
+           family={Hidayat},
+           familyi={H\bibinitperiod},
+           given={Indra\bibnamedelima Setia},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{fullhash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{fullhashraw}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{bibnamehash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{authorbibnamehash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{authornamehash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{authorfullhash}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \strng{authorfullhashraw}{1ac215b5ec37d47f10cdcaf1ebaa4cea}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.murdockcruz.com/2018/07/03/apa-sih-next-unit-of-computing-atau-nuc-itu-begini-penjelasannya/
+      \endverb
+      \verb{url}
+      \verb https://www.murdockcruz.com/2018/07/03/apa-sih-next-unit-of-computing-atau-nuc-itu-begini-penjelasannya/
+      \endverb
+    \endentry
+    \entry{Watson_2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b1bf2c625bb9d6acc91f67ec6cd104b6}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{fullhash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{fullhashraw}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{bibnamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authorbibnamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authornamehash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authorfullhash}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \strng{authorfullhashraw}{b1bf2c625bb9d6acc91f67ec6cd104b6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.theengineeringprojects.com/2018/10/introduction-to-arduino-ide.html
+      \endverb
+      \verb{url}
+      \verb https://www.theengineeringprojects.com/2018/10/introduction-to-arduino-ide.html
+      \endverb
+    \endentry
+    \entry{ekatama2024perancangan}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=42ed4258d217aa4be84ffc1da7581d3a}{%
+           family={Ekatama},
+           familyi={E\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Institut Teknologi Sepuluh Nopember}%
+      }
+      \strng{namehash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{fullhash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{fullhashraw}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{bibnamehash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{authorbibnamehash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{authornamehash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{authorfullhash}{42ed4258d217aa4be84ffc1da7581d3a}
+      \strng{authorfullhashraw}{42ed4258d217aa4be84ffc1da7581d3a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perancangan Sistem Kontrol Motor Kursi Roda Secara Nirkabel Berbasis ESP32}
+      \field{type}{phdthesis}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+  \missing{shajihan}
+\endrefsection
+\endinput
+

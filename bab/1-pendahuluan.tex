@@ -1,0 +1,58 @@
+\chapter{PENDAHULUAN}
+\label{chap:pendahuluan}
+
+% Ubah bagian-bagian berikut dengan isi dari pendahuluan 
+
+\section{Latar Belakang}
+\label{sec:latarbelakang}
+Kuadriplegia atau tetraplegia merupakan kelumpuhan yang terjadi pada keempat anggota gerak tubuh \parencite{Ropper2014Adams}. Data dari University of Alabama, penderita tetraplegia ini mencapai 40,8 \%. Karena limitasi yang mereka miliki, maka mereka memerlukan kursi roda. Kursi roda adalah alat yang digunakan untuk meningkatkan kemampuan mobilitas bagi orang yang memiliki kekurangan, seperti orang yang cacat fisik (khususnya penyandang cacat kaki), pasien rumah sakit yang tidak diperbolehkan untuk melakukan banyak aktivitas fisik, orang tua, lanjut usia, dan orang-orang yang memiliki resiko tinggi untuk terluka bila berjalan sendiri \parencite{Ady2011}. Penggunaan kursi roda konvensional cenderung berfokus pada penggunaan manual yang masih mengasumsikan pengguna dapat menggunakan tangan mereka untuk menggerakan kursi roda secara maksimal \parencite{sumit2017}.
+
+Mengendalikan pergerakan kursi roda bisa menjadi tantangan, terutama bagi pengguna dengan keterbatasan fisik signifikan. Diperlukan pengembangan sistem kontrol kursi roda yang dapat digunakan penderita tetraplegia. Salah satu pendekatan yang dapat dilakukan untuk mengontrol kursi roda adalah dengan melakukan ekstraksi fitur wajah dan pendeteksian head gesture dengan menggunakan mediapipe. Mediapipe adalah sebuah framework yang dirancang dengan cara mengimplementasikan kecerdasan buatan kedalam aplikasi yang akan dibangun\parencite{Budimananjay}. Mediapipe merupakan deep learning sehingga memerlukan kekuatan pemrosesan.
+
+Sebagai \emph{mini computer} yang memadai dan terjangkau, pada penelitian ini digunakanlah NUC sebagai platform penunjang dan pengganti laptop. Dengan begitu, penggabungan teknologi AI dan gestur kepala untuk menciptakan antarmuka kontrol kursi roda yang lebih mudah untuk penderita tetraplegia dapat dilakukan secara real time.
+
+
+\section{Permasalahan}
+\label{sec:permasalahan}
+Dari latar belakang diatas, terdapat beberapa rumusan masalah yang perlu diidentifikasi den diselesaikan. Rumusan masalah adalah sebagai berikut: 
+\begin{enumerate}
+    \item Bagaimana antarmuka kontrol yang dapat digunakan oleh penderita tetraplegia untuk mengendalikan pergerakan kursi roda?
+    \item Bagaimana performa sistem dalam mendeteksi head gesture untuk menggerakan kursi roda?
+    \item Bagaimana merancang sistem yang dapat mengenali dan memahami berbagai gestur kepala dengan akurat, termasuk gestur untuk mengubah arah, kecepatan, dan berhenti kursi roda? 
+\end{enumerate}
+ 
+
+\section{Tujuan}
+\label{sec:Tujuan}
+Dari masalah yang telah dirumuskan diatas, dapat dibuat beberapa tujuan sebagai berikut:
+\begin{enumerate}
+    \item Membuat antarmuka kontrol yang dapat digunakan oleh penderita tetraplegia untuk mengendalikan pergerakan kursi roda
+    \item Menguji keandalan, akurasi, dan responsivitas sistem kontrol kursi roda yang menggunakan gestur kepala
+    \item Merancang sistem yang dapat mengenali dan memahami berbagai gestur kepala dengan akurat, termasuk gestur untuk mengubah arah, kecepatan, dan berhenti kursi roda
+\end{enumerate}
+
+
+\section{Batasan Masalah}
+\label{sec:batasanmasalah}
+Batasan masalah yang penulis tetapkan pada penelitian ini dapat dibagi menjadi dua, yaitu batasan masalah pada software dan hardware. Untuk batasan masalah pada software, fokus utama dari penelitian ini adalah penerapan teknologi Mediapipe dengan training menggunakan CNN dan yang di deketsi adalah gestur kepala. Hal ini berarti penelitian tidak akan menggali teknologi lain seperti deteksi gerakan tangan atau perintah suara. Selanjutnya, untuk memastikan akurasi dalam deteksi gerakan kepala, penelitian ini akan dilakukan dalam lingkungan indoor dengan pencahayaan yang stabil dan minim gangguan visual lainnya. Lingkungan outdoor dengan variabel pencahayaan yang berfluktuasi tidak akan menjadi ruang lingkup penelitian ini.
+
+Untuk batasan masalah hardware, fokus utama dari penelitian ini adalah penerapan pada NUC dan kursi roda. Dalam konteks kursi roda, asumsi dasar yang diambil adalah penggunaan kursi roda listrik standar, dengan mengabaikan variabel seperti berat pengguna atau kecepatan maksimal kursi. Selain itu, aspek teknis seperti daya tahan baterai NUC atau konsumsi daya oleh Mediapipe tidak akan menjadi fokus penelitian. Pembatasan-pembatasan tersebut didefinisikan untuk memastikan penelitian berjalan efisien dan menghasilkan kesimpulan yang spesifik dan relevan.
+
+\section{Manfaat}
+Manfaat yang bisa didapat dari penelitian ini adalah sebuah alat dalam bentuk kursi roda yang dapat digerakkan menggunakan head gesture. Kursi roda ini diharapkan dapat membantu penyandang cacat seluruh anggota gerak untuk dapat bergerak lebih bebas dan lebih mandiri.
+
+\section{Sistematika Penulisan}
+Laporan penelitian ini disusun dengan sisematika yang sedemikian rupa agar mudah dipahami oleh pembaca yang awam atau peneliti lain yang ingin melanjutkan penelitian ini.Alur sistematika penulisan laporan ini adalah sebagai berikut:
+\begin{enumerate}
+\item \textbf{BAB I Pendahuluan} \\
+Bab ini berisi penjelasan mengenai latar belakang dari penelitian ini yang kemudian menimbulkan permasalahan yang akan diselesaikan dan menjadi tujuan dari penelitian ini. Terdapat juga batasan masalah dari permasalahan yang didapat dan manfaat dari dilakukannya penelitian ini.
+\item \textbf{BAB II Tinjauan Pustaka} \\
+Bab ini berisi mengenai penelitian terdahulu yang mirip dengan penelitian ini. Selain itu, dipaparkan juga mengenai teori-teori, peralatan dan bahan-bahan yang akan digunakan pada penelitian kali ini.
+\item \textbf{BAB III Desain dan Implementasi Sistem} \\
+Bab ini berisi tentang perancangan dan pengimplementasian \emph{hardware} dan \emph{software} yang diperlukan. Dijelaskan juga secara rinci hubungan antara komponen yang digunakan.
+\item \textbf{BAB IV Pengujian dan Analisa} \\
+Bab ini berisi skenario-skenario pengujian yang dilakukan beserta data-data yang didapatkan. Data-data tersebut juga akan diolah dan divisualisasikan untuk memudahkan pengambilan kesimpulan.
+\item \textbf{BAB V Penutup} \\
+Pada bab ini terdapat kesimpulan yang berisi mengenai hasil akhir yang didapat setelah dilakukannya penelitian ini. Terdapat juga saran untuk penelitian selanjutnya bagi yang ingin melanjutkan penelitian ini.
+\end{enumerate}
+

@@ -1,0 +1,21 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'main.blg'
+[117] biber-MSWIN64:340> INFO - === 
+[165] Biber.pm:420> INFO - Reading 'main.bcf'
+[295] Biber.pm:994> INFO - Found 23 citekeys in bib section 0
+[309] Biber.pm:4463> INFO - Processing section 0
+[326] Biber.pm:4654> INFO - Looking for bibtex file 'pustaka/pustaka.bib' for section 0
+[396] bibtex.pm:1713> INFO - LaTeX decoding ...
+[425] bibtex.pm:1519> INFO - Found BibTeX data source 'pustaka/pustaka.bib'
+[573] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[573] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[573] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[573] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[596] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[610] bbl.pm:779> INFO - Output to main.bbl
+[611] Biber.pm:131> WARN - legacy month field 'Jan' in entry 'Fatoni2023' is not an integer - this will probably not sort properly.
+[611] Biber.pm:131> WARN - Possible typo (case mismatch) between citation and datasource keys: 'shajihan' and 'Shajihan' in file 'pustaka/pustaka.bib'
+[611] Biber.pm:131> WARN - legacy month field 'May' in entry 'Developers' is not an integer - this will probably not sort properly.
+[611] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\BATRIS~1\AppData\Local\Temp\biber_tmp_KDzx\edf1f315de8056cfaef35fb8874dd844_4284.utf8, line 8, warning: 357 characters of junk seen at toplevel
+[611] Biber.pm:131> WARN - I didn't find a database entry for 'shajihan' (section 0)
+[611] Biber.pm:133> INFO - WARNINGS: 5

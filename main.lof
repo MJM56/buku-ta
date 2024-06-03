@@ -1,0 +1,48 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Kursi Roda Elektrik}}{6}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Koordinat \emph {Landmark }}}{8}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Arsitektur pada \emph {Convolutional Neural Network}}}{9}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \emph {Aktivasi ReLU}}}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \emph {Max Pooling}}}{10}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Proses \emph {Flattening}}}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Visualisasi \emph {confusion matrix}}}{10}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces H-Bridge Motor Driver}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ESP32}}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces NUC}}{14}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Blok diagram \emph {hardware}}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Flowchart Mengirim Data String Melalui WiFi \blx@tocontentsinit {0}\parencite {ekatama2024perancangan}}}{18}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Flowchart Menerima Data String Melalui Access Point WiFi Pada ESP32 \blx@tocontentsinit {0}\parencite {ekatama2024perancangan}}}{19}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Skematik \blx@tocontentsinit {0}\parencite {ekatama2024perancangan}}}{20}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Flowchart Kontrol Motor Kursi Roda Melalui Access Point WiFi \blx@tocontentsinit {0}\parencite {ekatama2024perancangan}}}{21}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Blok diagram \emph {software}}}{21}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Contoh citra wajah}}{23}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Arsitektur CNN Model 1}}{24}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Arsitektur CNN Model 2}}{25}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Diagram Arsitektur CNN Model 1}}{26}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Diagram Arsitektur CNN Model 2}}{26}{figure.caption.22}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagram Pembagian Dataset}}{30}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Accuracy Hasil Pelatihan Model}}{30}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Model Loss Hasil Pelatihan Model}}{31}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Confusion Matrix Hasil Pelatihan Model Pertama}}{31}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Accuracy Hasil Pelatihan Model Kedua}}{33}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Model Loss Hasil Pelatihan Model Kedua}}{33}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Confusion Matrix Hasil Pelatihan Model Kedua}}{34}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Dataset Jarak 50 sentimeter}}{37}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Accuracy Hasil Pelatihan Jarak 50cm}}{38}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Loss Hasil Pelatihan Jarak 50cm}}{38}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Confusion Matrix Hasil Pelatihan Jarak 50cm}}{39}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Dataset Jarak 75 sentimeter}}{40}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Accuracy Hasil Pelatihan Jarak 75cm}}{41}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Loss Hasil Pelatihan Jarak 75cm}}{41}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Confusion Matrix Hasil Pelatihan Jarak 75cm}}{42}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Dataset Jarak 100 sentimeter}}{43}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Accuracy Hasil Pelatihan Jarak 100cm}}{44}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Loss Hasil Pelatihan Jarak 100cm}}{44}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Confusion Matrix Hasil Pelatihan Jarak 100cm}}{45}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Pendeteksian pada 15 lux}}{47}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Pendeteksian pada 46 lux}}{48}{figure.caption.56}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Pendeteksian pada 110 lux}}{49}{figure.caption.57}%
+\addvspace {10\p@ }
